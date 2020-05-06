@@ -1,6 +1,6 @@
 {
-  "name": "ctag",
-  "version": "1.0.5",
+  "name": "rdmix",
+  "version": "0.0.1",
   "description": "easy auto create git tag",
   "main": "src/index.js",
   "scripts": {
